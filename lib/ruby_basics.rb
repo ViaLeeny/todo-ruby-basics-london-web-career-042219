@@ -1,13 +1,13 @@
 def division(num1, num2)
- 
+ 12/2
 end
 
-def assign_variable(value)
-  
+def assign_variable(value = "bob")
+  value
 end
 
-def argue
-  
+def argue (x)
+  x
 end
 
 def greeting
